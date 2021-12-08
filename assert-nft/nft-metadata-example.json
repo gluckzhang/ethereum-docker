@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "cyber|glow"
+    },
+    {
+      "trait_type": "Collective",
+      "value": "re|thread"
+    }
+  ],
+  "description": "cyber|glow is a light installation, generated in real time based on the interactions of the visitors. It reveals the invisible and live software traces that operate an interactive game. cyber|glow enchants visitors with a large-scale multi-player game where they learn about Nobel discoveries. cyber|glow reveals the intangible layers of code and data that run the game, through a generative laser projection.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRBVy2WxBK6SznVQHzXF7rsQaB578Rd9zuyVGWEXaM6YX",
+  "name": "CyberGlow"
+}
