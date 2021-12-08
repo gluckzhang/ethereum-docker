@@ -18,6 +18,7 @@ Configure `hardhat.config.js` if you would like to deploy the contract to anothe
 
 
 ```bash
+npx hardhat compile
 npx hardhat run scripts/deploy.js
 ```
 
@@ -25,7 +26,6 @@ After executing the command, you should be able to see something like:
 
 ```
 Contract deployed to address: CONTRACT_ADDRESS
-
 ```
 
 ### Mint An NFT
